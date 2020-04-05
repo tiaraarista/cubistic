@@ -1,2 +1,2 @@
 # Cubistic
-An Cube Game Made with Unity Engine
+A Cube Game Made with Unity Engine
